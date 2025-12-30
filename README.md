@@ -15,4 +15,5 @@ Data Analysis | SQL | Statistics | Python | Documentation | Git
 To become a "job-ready Business Analyst"" and bridge "business needs with data insights".
 
  📫 Email: nandinipande27@gmail.com 
+ 
 🔗 LinkedIn: linkedin.com/in/nandini-pande-2512a0330
